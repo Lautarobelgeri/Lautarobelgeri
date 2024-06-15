@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I’m currently working on a fullstack e-commerce dummy project
+
 I’m currently learning Node.js
 <!--
 **Lautarobelgeri/Lautarobelgeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
