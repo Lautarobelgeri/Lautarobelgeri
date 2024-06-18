@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m currently working on a fullstack e-commerce dummy project
+I’m currently working on a fullstack e-commerce project
 
 I’m currently learning Node.js
 <!--
